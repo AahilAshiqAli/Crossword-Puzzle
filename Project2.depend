@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1670787035 source:c:\users\user\documents\final project\aahil.cpp
+	<iostream>
+	"Untitled3.h"
+	<vector>
+	<string>
+	<fstream>
+	<cstring>
+	<conio.h>
+	<ctime>
+
+1670774980 c:\users\user\documents\final project\untitled3.h
+	<vector>
+	<string>
+
+1670777262 source:c:\users\user\documents\final project\untitled3.cpp
+	"Untitled3.h"
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<conio.h>
+
+1670787496 source:d:\cs\semester 3\ds\final project\aahil.cpp
+	<iostream>
+	"Untitled3.h"
+	<vector>
+	<string>
+	<fstream>
+	<cstring>
+	<conio.h>
+
+1693740002 d:\cs\semester 3\ds\final project\untitled3.h
+	<vector>
+	<string>
+
+1693736578 source:d:\cs\semester 3\ds\final project\untitled3.cpp
+	"Untitled3.h"
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<conio.h>
+
